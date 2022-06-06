@@ -1,0 +1,9 @@
+Aclan & Co. CPAs (Elements, colors, typography)
+--primary-color: #4B9701; rgb(75, 151, 1)
+--secondary-color: #046306; rgb (4, 99, 6)
+
+---------TAGLINE-----------
+Aclan Accounting & Auditing Office
+
+Committed to building a better working world - with increased trust and confidence
+in business, sustainable growth and greater collaboration.
